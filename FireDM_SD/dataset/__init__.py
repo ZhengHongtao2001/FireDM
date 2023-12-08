@@ -1,0 +1,1 @@
+from .VOC2012 import *
