@@ -1,7 +1,7 @@
 # FireDM
 Official code for 'FireDM: A Few-Shot Learning Fire Segmentation Framework based on the Diffusion Model'
 <p align="center">
-<img src="./asset/1.png" width="800px"/>  
+<img src="./asset/1.jpg" width="800px"/>  
 <br>
 </p>
 
