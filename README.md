@@ -1,5 +1,5 @@
 # FireDM
-Official code for 'FireDM: A Few-Shot Learning Fire Segmentation Framework based on the Diffusion Model'
+Official code for 'FireDM: A weakly-supervised approach for massive generation of multi-scale and multi-scene fire segmentation datasets'
 <p align="center">
 <img src="./asset/1.jpg" width="800px"/>  
 <br>
