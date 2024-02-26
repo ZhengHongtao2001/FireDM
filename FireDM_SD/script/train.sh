@@ -1,1 +1,0 @@
-CUDA_LAUNCH_BLOCKING=1 CUDA_VISIBLE_DEVICES=0 python train.py --save_name Train --config ./config/VOC/Sematic.yaml --image_limitation 118
