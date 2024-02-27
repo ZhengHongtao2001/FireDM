@@ -27,7 +27,7 @@ Then install other packages:
 python -m pip install -r requirements.txt
 ```
 
-Select one of the following pre-training weight files: [Stable Diffusion 1.4](https://huggingface.co/CompVis/stable-diffusion-v1-4/tree/main), [Stable Diffusion 1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main), [Stable Diffusion 2.0](https://huggingface.co/stabilityai/stable-diffusion-2-base/tree/main), [Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1/tree/main), [Stable Diffusion XL base-0.9](https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9/tree/main), [Stable Diffusion XL Refiner-0.9](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9/tree/main), [Stable Diffusion XL Base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/tree/main), [Stable Diffusion XL Refiner-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) and place them in the ```./dataset/ckpts``` directory.
+Select one of the following pre-training weight files: [Stable Diffusion XL Base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/tree/main) and place them in the ```./dataset/ckpts``` directory.
 
 
 ### Training Dataset Prepare
@@ -56,7 +56,7 @@ dataset/
 ```
 
 ### Running Command
-Training the Mask-deocder, or we also provide the [trained weight](https://drive.google.com/file/d/1sfk0DHxg6oDVhmkCYH1SJ0UnAmKVf8Oa/view?usp=drive_link) with BoWFire.
+Training the Fire-deocder, or We also present the [trained model](https://drive.google.com/file/d/1sfk0DHxg6oDVhmkCYH1SJ0UnAmKVf8Oa/view?usp=drive_link) after training with the BoWFire dataset.
 
 
 ```sh
