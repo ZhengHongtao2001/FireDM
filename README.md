@@ -86,14 +86,16 @@ This work draws inspiration from the following contributions. We express our gra
 - [DatasetDM](https://github.com/showlab/DatasetDM)
 
 
-<!--## Citation
+## Citation
 
 ```
-@article{wu2023datasetdm,
-  title={DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models},
-  author={Wu, Weijia and Zhao, Yuzhong and Chen, Hao and Gu, Yuchao and Zhao, Rui and He, Yefei and Zhou, Hong and Shou, Mike Zheng and Shen, Chunhua},
-  journal={Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)},
-  year={2023}
+@article{zheng2024firedm,
+  title={FireDM: A weakly-supervised approach for massive generation of multi-scale and multi-scene fire segmentation datasets},
+  author={Zheng, Hongtao and Wang, Meng and Wang, Zilong and Huang, Xinyan},
+  journal={Knowledge-Based Systems},
+  pages={111547},
+  year={2024},
+  publisher={Elsevier}
 }
-``` -->
+```
 
