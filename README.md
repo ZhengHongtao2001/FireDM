@@ -56,7 +56,7 @@ dataset/
 ```
 
 ### Running Command
-Training the Fire-deocder, or We also present the [trained model](https://drive.google.com/file/d/1sfk0DHxg6oDVhmkCYH1SJ0UnAmKVf8Oa/view?usp=drive_link) after training with the BoWFire dataset.
+Training the Fire-deocder
 
 
 ```sh
