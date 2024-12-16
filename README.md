@@ -70,10 +70,6 @@ sh ./script/train.sh
 sh ./script/generation.sh
 ```
 
-```sh
-# Visualization of generative data
-python ./Results/combine.py
-```
 
  ## Acknowledgements
 This work draws inspiration from the following contributions. We express our gratitude for these outstanding contributions and encourage citation of the following works when referencing our own:
