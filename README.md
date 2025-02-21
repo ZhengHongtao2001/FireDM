@@ -8,9 +8,6 @@ Official code for 'FireDM: A weakly-supervised approach for massive generation o
 
 ## Our Contribution
 - [x] We propose a data augmentation framework FireDM, that can train to generate an infinite fire segmentation dataset with minimal reliance on a training dataset.
-- [x] We have utilized the FireDM framework to create the largest and highest-quality fire segmentation dataset in the world to date. This dataset encompasses forest fires, vehicle fires, and building fires.
-(ps: However, due to the uncontrollable nature of the diffusion process, some uncomfortable burning scenarios often appear in the dataset. We are further optimizing and filtering our dataset concerning this issue, but please be assured, it will soon be made public.)
-## :hammer_and_wrench: Getting Started
 
 ### Installation
 ```sh
